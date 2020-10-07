@@ -13,12 +13,12 @@
   },
   {
     "name": "Write RxJs Tutorial",
-    "project": "Work",
+    "project": "1",
     "completed": false
   },
   {
     "name": "Call Bill",
-    "project": "Home",
+    "project": "2",
     "completed": false,
     "dueDate": "2020-12-12"
   }
